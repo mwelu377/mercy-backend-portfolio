@@ -71,17 +71,15 @@ A backend REST API for a content platform where users can securely register, log
 * Middleware and error handling
 
 **Technologies:**
+
 Node.js, Express.js, MongoDB, Mongoose, Joi, JWT, bcrypt
 
 **Links:**
 
-- [GitHub Repository]- (https://github.com/mwelu377/blog-api-authentication)
-
-- [Live API] -(https://blog-api-authentication-and-ownership.onrender.com)
-
-- [Postman]- (https://mercymwelu2022-5969311.postman.co/workspace/Backend-Portfolio-%E2%80%94-Mercy-Mwelu~3cdab2d3-5983-452c-b729-6af3a1014ce5/collection/56886159-42bf2011-b09d-45f2-bc67-d3b1ff3aa60c?action=share&creator=56886159)
-
-**Case Study:** `docs/blog-api-case-study.md`
+* [GitHub Repository](https://github.com/mwelu377/blog-api-authentication)
+* [Live API](https://blog-api-authentication-and-ownership.onrender.com)
+* [Postman](https://mercymwelu2022-5969311.postman.co/workspace/Backend-Portfolio-%E2%80%94-Mercy-Mwelu~3cdab2d3-5983-452c-b729-6af3a1014ce5/collection/56886159-42bf2011-b09d-45f2-bc67-d3b1ff3aa60c?action=share&creator=56886159)
+* [Case Study](docs/blog-api-case-study.md)
 
 ## Backend Development Focus
 
